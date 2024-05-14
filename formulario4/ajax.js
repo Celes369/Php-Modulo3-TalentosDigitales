@@ -1,0 +1,1 @@
+const formularioAjax = document.querySelectorAll('.formularioAjax');
